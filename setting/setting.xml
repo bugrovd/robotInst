@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<auth>
+<accounts>
+    <account>
+        <authorization_code>12344</authorization_code>
+        <access_token>0</access_token>
+    </account>
+    <account>
+        <authorization_code>155554</authorization_code>
+        <access_token>0</access_token>
+    </account>
+</accounts>
+
+<clients>
+    <client>
+        <client_id>0</client_id>
+        <client_secret>0</client_secret>
+    </client>
+</clients>
+</auth>
