@@ -1,20 +1,23 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <auth>
-<accounts>
-    <account>
-        <authorization_code>12344</authorization_code>
-        <access_token>0</access_token>
-    </account>
-    <account>
-        <authorization_code>155554</authorization_code>
-        <access_token>0</access_token>
-    </account>
-</accounts>
-
-<clients>
-    <client>
-        <client_id>0</client_id>
-        <client_secret>0</client_secret>
-    </client>
-</clients>
+   <accounts>
+      <account>
+         <access_token>0</access_token>
+         <user_id>0</user_id>
+         <user_name>Dima</user_name>
+         <full_name>Dima Bugrov</full_name>
+      </account>
+   </accounts>
+   <clients>
+      <client>
+         <client_name>Client1</client_name>
+         <client_id>0</client_id>
+         <client_secret>1233333333333</client_secret>
+      </client>
+      <client>
+         <client_name>Client2</client_name>
+         <client_id>0</client_id>
+         <client_secret>1233333333333</client_secret>
+      </client>
+   </clients>
 </auth>
